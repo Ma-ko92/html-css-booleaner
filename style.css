@@ -1,0 +1,121 @@
+/* reset */
+*{
+  margin:0;
+  }
+/* header */
+header{
+  background-image: url("img/pattern.png");
+  background-color: rgb(26, 174, 223);
+}
+/* fine header */
+/* inizio main */
+main{
+  margin:auto;
+}
+/* inizio container */
+.container{
+  width:1024px;
+  margin:auto;
+}
+/* logo */
+.logo{
+  height:75px;
+  margin-top: 50px;
+}
+/* fine logo */
+/* title */
+h1{
+  font-size: 45px;
+  margin-top: 20px;
+  line-height: 40px;
+}
+/* author */
+.author-name {
+  margin-top: 10px;
+  color:grey;
+}
+
+.author-highlights{
+  color: blue;
+}
+
+.date{
+  color: grey;
+  font-size: 15px;
+}
+/* fine author */
+/* photo */
+.photo{
+  margin-top:20px;
+}
+
+.photo-guide{
+  font-size: 12px;
+}
+/* fine photo */
+/* main article */
+.article{
+  margin-top: 20px;
+  font-size: 17px;
+}
+
+.highlights{
+  background-color: yellow;
+}
+
+.main-points{
+  margin-top: 20px;
+}
+/* list */
+ul{
+  list-style: inside;
+  padding-left: 0;
+}
+/* table */
+table{
+  border-spacing: 0;
+  margin-top: 20px;
+}
+
+table thead{
+  background-color: blue;
+  color: white;
+  text-align: left;
+}
+
+.table-text{
+  width: 50%;
+}
+
+.odd{
+  background-color: lightblue;
+}
+/* fine table */
+/* footer */
+.other-article{
+  color:grey;
+  margin-top: 20px;
+}
+
+.graph{
+  background-image: url("img/graph.jpg");
+  margin-top: 20px;
+  width: 200px;
+  height: 150px;
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.monitor{
+  background-image: url("img/monitor.jpg");
+  margin-top: 10px;
+  width: 200px;
+  height: 150px;
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+/* fine footer */
